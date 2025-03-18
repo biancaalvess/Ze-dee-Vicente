@@ -7,9 +7,6 @@ export function Footer() {
         <div className="container mx-auto px-4">
         <div className="flex flex-col items-center">
         <img src="/logo-fundo.png" alt="Logo Zé de Vicente" />
-        <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
-            ZÉ DE VICENTE
-            </h3>
             <p className="text-sm text-gray-600 dark:text-gray-400 text-center mb-4">
             A mais de 40 anos de tradição em materiais de construção
             </p>
