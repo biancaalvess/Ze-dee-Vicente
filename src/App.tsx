@@ -21,7 +21,7 @@ function App() {
             {/* Cabeçalho */}
             <header className="text-center mb-8 sm:mb-12 px-4">
               <div className="flex justify-center items-center mb-4 sm:mb-6">
-              <img src="/img/logo-fundo.png" alt="Logo Zé de Vicente" />
+              <img src="/public/logo-fundo.png" alt="Logo Zé de Vicente" className="max-w-[500px] h-auto mb-4" />
               </div>
               <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-3 sm:mb-4">
                 ZÉ DE VICENTE
