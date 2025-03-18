@@ -6,7 +6,7 @@ export function Footer() {
     <footer className="bg-white dark:bg-gray-800 mt-12 py-8 shadow-lg">
         <div className="container mx-auto px-4">
         <div className="flex flex-col items-center">
-        <img src="/img/logo-fundo.png" alt="Logo Zé de Vicente" className="max-w-[300px] h-auto mb-4" />
+        <img src="/img/logo-fundo.png" alt="Logo Zé de Vicente" />
         <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-2">
             ZÉ DE VICENTE
             </h3>
