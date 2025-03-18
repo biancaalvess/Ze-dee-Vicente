@@ -21,7 +21,10 @@ export function Footer() {
 
             <div className="mt-6 text-center">
             <p className="text-sm text-gray-500 dark:text-gray-400">
-                © {new Date().getFullYear()} Zé de Vicente. Todos os direitos reservados. - Desenvolvido por: Bianca Alves.
+                © {new Date().getFullYear()} Zé de Vicente. Todos os direitos reservados. - Desenvolvido por: 
+                <a href="https://biancaalvess-portifolio.netlify.app/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+                    Bianca Alves
+                </a>.
             </p>
             </div>
         </div>
