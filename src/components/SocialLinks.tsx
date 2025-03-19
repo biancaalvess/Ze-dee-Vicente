@@ -15,7 +15,7 @@ export function SocialLinks() {
     </a>
     
     <a
-        href="https://www.instagram.com/zvmaterialdeconstrucaoltda/"
+        href="https://www.instagram.com/zedevicenteltda/"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center px-4 py-2 bg-[#F12E34] text-white rounded-full hover:bg-opacity-90 transition-colors"
